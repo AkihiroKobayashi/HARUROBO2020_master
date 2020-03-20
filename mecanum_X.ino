@@ -1,6 +1,7 @@
 //関東春ロボコン2020のマスター兼足回りのプログラム
 //作成者 こばやしあきひろ
 //備考 ここにあるクラスは先生が作成された物を活用させて頂いています。
+//git remote add origin <git@github.com:AkihiroKobayashi/HARUROBO2020_master.git>
 #include "Arduino.h"
 #include "MsTimer2.h"
 #include "define.h"
